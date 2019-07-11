@@ -15,7 +15,7 @@ public class JunitDemoTest {
 
     @After
     public void tearDown(){
-        System.out.println("Inside After");
+        System.out.println("inside After");
         junitDemo=null;
     }
     @BeforeClass
