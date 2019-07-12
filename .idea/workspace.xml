@@ -2,35 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7de6a25d-490d-41e8-8412-243ff09579a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaprograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/META-INF/javaprograms.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/Descending.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/Guess.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/Iteration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/JunitDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/Palindrome.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/Reverse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/Tomjerry.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/javaprograms/com/stackroute/pe1/vowel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/javaprograms/META-INF/javaprograms.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/test/javaprograms/com/stackroute/pe1/JunitDemoTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Descending.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Guess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/JunitDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Tomjerry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/vowel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/stackroute/pe1/JunitDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Alphabets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ArraySum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringRepeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/javaprograms/com/stackroute/pe1/JunitDemoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/javaprograms/com/stackroute/pe1/JunitDemoTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pe1/JunitDemoTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            <state relative-caret-position="120">
+              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#453#454#0" expanded="true" />
@@ -83,20 +59,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Tomjerry.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringRepeat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="29" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="29" />
+            <state relative-caret-position="300">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/vowel.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ArraySum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Alphabets.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -145,8 +130,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -166,15 +151,11 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/Junitdemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Junitdemo.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pe1/JunitdemoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pe1/JunitDemoTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/JunitDemo.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/stackroute/pe1/JunitDemoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ArraySum.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Alphabets.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringRepeat.java" />
       </list>
     </option>
   </component>
@@ -287,8 +268,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JunitDemoTest">
-    <configuration name="JunitDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.StringRepeat (1)">
+    <configuration name="Alphabets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.Alphabets" />
       <module name="javaprograms" />
       <extension name="coverage">
         <pattern>
@@ -296,14 +278,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.JunitDemoTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitdemoTest.givenAStringAndShouldReturnErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ArraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ArraySum" />
       <module name="javaprograms" />
       <extension name="coverage">
         <pattern>
@@ -311,15 +291,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.JunitdemoTest" />
-      <option name="METHOD_NAME" value="givenAStringAndShouldReturnErrorMessage" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitdemoTest.givenAsStringAndNullShouldReturnErrorMessage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringRepeat (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringRepeat" />
       <module name="javaprograms" />
       <extension name="coverage">
         <pattern>
@@ -327,60 +304,50 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.JunitdemoTest" />
-      <option name="METHOD_NAME" value="givenAsStringAndNullShouldReturnErrorMessage" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitdemoTest.givenTwoStringsShouldReturnConcatedUpperString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StringRepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.StringRepeat" />
       <module name="javaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="PATTERN" value="com.stackroute.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.JunitdemoTest" />
-      <option name="METHOD_NAME" value="givenTwoStringsShouldReturnConcatedUpperString" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JunitdemoTest.givenTwoStringsShouldReturnConcatedUpperStrings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Stringrepeat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.Stringrepeat" />
       <module name="javaprograms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="PATTERN" value="com.stackroute.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.JunitdemoTest" />
-      <option name="METHOD_NAME" value="givenTwoStringsShouldReturnConcatedUpperStrings" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.JunitdemoTest.givenAsStringAndNullShouldReturnErrorMessage" />
-      <item itemvalue="JUnit.JunitdemoTest.givenTwoStringsShouldReturnConcatedUpperStrings" />
-      <item itemvalue="JUnit.JunitdemoTest.givenAStringAndShouldReturnErrorMessage" />
-      <item itemvalue="JUnit.JunitdemoTest.givenTwoStringsShouldReturnConcatedUpperString" />
-      <item itemvalue="JUnit.JunitDemoTest" />
+      <item itemvalue="Application.Stringrepeat" />
+      <item itemvalue="Application.StringRepeat" />
+      <item itemvalue="Application.StringRepeat (1)" />
+      <item itemvalue="Application.ArraySum" />
+      <item itemvalue="Application.Alphabets" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.JunitDemoTest" />
-        <item itemvalue="JUnit.JunitdemoTest.givenTwoStringsShouldReturnConcatedUpperString" />
-        <item itemvalue="JUnit.JunitdemoTest.givenAStringAndShouldReturnErrorMessage" />
-        <item itemvalue="JUnit.JunitdemoTest.givenTwoStringsShouldReturnConcatedUpperStrings" />
-        <item itemvalue="JUnit.JunitdemoTest.givenAsStringAndNullShouldReturnErrorMessage" />
+        <item itemvalue="Application.StringRepeat (1)" />
+        <item itemvalue="Application.Alphabets" />
+        <item itemvalue="Application.ArraySum" />
+        <item itemvalue="Application.StringRepeat" />
+        <item itemvalue="Application.Stringrepeat" />
       </list>
     </recent_temporary>
   </component>
@@ -395,6 +362,14 @@
       <option name="presentableId" value="Default" />
       <updated>1562815680698</updated>
     </task>
+    <task id="LOCAL-00001" summary="modified test case">
+      <created>1562848327334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562848327334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -437,15 +412,15 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2495935" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2495935" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" weight="0.329806" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32920355" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" weight="0.32920355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32920355" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,6 +434,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="modified test case" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified test case" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -531,10 +510,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ArraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Alphabets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringRepeat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="26" selection-start-column="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/stackroute/pe1/JunitDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        <state relative-caret-position="120">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#453#454#0" expanded="true" />
@@ -542,6 +542,13 @@
             <element signature="e#556#557#0" expanded="true" />
             <element signature="e#605#606#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
