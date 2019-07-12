@@ -5,8 +5,8 @@ public class StringRepeat {
         int len;
         Scanner sc= new Scanner(System.in);
         String g= sc.next();
-        Scanner sc1= new Scanner(System.in);
-        int n= sc1.nextInt();
+        Scanner sca= new Scanner(System.in);
+        int n= sca.nextInt();
         String x ="";
         String d="";
         len=g.length();
