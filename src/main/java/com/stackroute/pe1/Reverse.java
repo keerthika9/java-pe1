@@ -3,13 +3,17 @@ package com.stackroute.pe1;
 
 import java.util.*;
 public class Reverse {
-    public static void main(String[] args) {
-        String x = "";
-        Scanner sc = new Scanner(System.in);
-        String g = sc.next();
-        for (int j = g.length() - 1; j >= 0; j--) {
-            x = x + g.charAt(j);
+    //public static void main(String[] args) {
+    public static String reverse(String OriginalString){
+        String ReverseString= "";
+        if(OriginalString==null)
+            return "String cannot be null";
+
+        //Scanner sc = new Scanner(System.in);
+       // String g = sc.next();
+        for (int j = OriginalString.length() - 1; j >= 0; j--) {
+            ReverseString= ReverseString + OriginalString.charAt(j);
         }
-        System.out.println(x);
+        return ReverseString;
     }
 }
